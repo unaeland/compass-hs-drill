@@ -1,0 +1,254 @@
+[
+  {
+    "name": "ニーズヘッグ",
+    "seconds": 11.1,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "オカリン",
+    "seconds": 10.8,
+    "note": "岡部倫太郎",
+    "iconId": "IMG_2633"
+  },
+  {
+    "name": "チーちゃん",
+    "seconds": 10.1,
+    "note": "障害物に接触しない最大時",
+    "iconId": ""
+  },
+  {
+    "name": "ポプ子ピピ美",
+    "seconds": 10.1,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "Bugdoll",
+    "seconds": 10,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ぶれどら",
+    "seconds": 10,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ロキシー",
+    "seconds": 10,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "セイバー",
+    "seconds": 10,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "アーチャー",
+    "seconds": 10,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ランサー",
+    "seconds": 10,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ファースト",
+    "seconds": 10,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ギルガメッシュ",
+    "seconds": 9.95,
+    "note": "",
+    "iconId": "IMG_2690"
+  },
+  {
+    "name": "パワー",
+    "seconds": 9.9,
+    "note": "",
+    "iconId": "IMG_2673"
+  },
+  {
+    "name": "デンジ",
+    "seconds": 9.6,
+    "note": "障害物に接触しない最大時",
+    "iconId": "IMG_2672"
+  },
+  {
+    "name": "上条当麻",
+    "seconds": 9.5,
+    "note": "",
+    "iconId": "IMG_2684"
+  },
+  {
+    "name": "めぐみん",
+    "seconds": 9.4,
+    "note": "無敵終了後にも操作不能時間あり",
+    "iconId": "IMG_2629"
+  },
+  {
+    "name": "モノクマ",
+    "seconds": 9.25,
+    "note": "成功時",
+    "iconId": "IMG_2626"
+  },
+  {
+    "name": "ゴン",
+    "seconds": 9.1,
+    "note": "",
+    "iconId": "IMG_2681"
+  },
+  {
+    "name": "乃保",
+    "seconds": 9,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "マリア",
+    "seconds": 9,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "きらら",
+    "seconds": 9,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "メルーニャ",
+    "seconds": 8.9,
+    "note": "スーパーノヴァス",
+    "iconId": ""
+  },
+  {
+    "name": "GBガール",
+    "seconds": 8.65,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "輪廻",
+    "seconds": 8.5,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "忠信",
+    "seconds": 8.35,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "セイバーオルタ",
+    "seconds": 8.15,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ディズィー",
+    "seconds": 8,
+    "note": "",
+    "iconId": "IMG_2605"
+  },
+  {
+    "name": "ソーン",
+    "seconds": 8,
+    "note": "",
+    "iconId": "IMG_2614"
+  },
+  {
+    "name": "ライザ",
+    "seconds": 8,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ターニャ",
+    "seconds": 8,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "うら",
+    "seconds": 8,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "シャルル",
+    "seconds": 8,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ポロロッチョ",
+    "seconds": 7.85,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "レゼ",
+    "seconds": 7.8,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "鏡音 リン",
+    "seconds": 7.65,
+    "note": "",
+    "iconId": "IMG_2621"
+  },
+  {
+    "name": "リヴァイ",
+    "seconds": 7.6,
+    "note": "障害物に接触しない最大時",
+    "iconId": "IMG_2631"
+  },
+  {
+    "name": "まとい",
+    "seconds": 7.5,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ジャスティス",
+    "seconds": 7.4,
+    "note": "",
+    "iconId": "IMG_2595"
+  },
+  {
+    "name": "忠臣",
+    "seconds": 7.35,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ヴィオレッタ",
+    "seconds": 7.35,
+    "note": "",
+    "iconId": ""
+  },
+  {
+    "name": "ジョーカー",
+    "seconds": 7.35,
+    "note": "",
+    "iconId": "IMG_2651"
+  },
+  {
+    "name": "ジャンヌ",
+    "seconds": 7.3,
+    "note": "",
+    "iconId": ""
+  }
+]
