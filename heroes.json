@@ -1,254 +1,650 @@
 [
   {
-    "name": "ニーズヘッグ",
+    "name": "HM-WA100 ニーズヘッグ",
     "seconds": 11.1,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2645"
   },
   {
-    "name": "オカリン",
+    "name": "岡部 倫太郎",
     "seconds": 10.8,
-    "note": "岡部倫太郎",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2635"
   },
   {
-    "name": "チーちゃん",
+    "name": "チーちゃん（障害物未接触時）",
     "seconds": 10.1,
-    "note": "障害物に接触しない最大時",
+    "note": "Appliv 2026-06-25 / 障害物非接触時の値。最大扱いの根拠はAppliv記載",
     "iconId": "IMG_2683"
   },
   {
-    "name": "ポプ子ピピ美",
+    "name": "ポプ子＆ピピ美",
     "seconds": 10.1,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2687"
   },
   {
     "name": "Bugdoll",
-    "seconds": 10,
-    "note": "",
+    "seconds": 10.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2657"
   },
   {
-    "name": "ぶれどら",
-    "seconds": 10,
-    "note": "",
+    "name": "天空王 ぶれいずどらごん",
+    "seconds": 10.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2666"
   },
   {
-    "name": "ロキシー",
-    "seconds": 10,
-    "note": "",
+    "name": "ロキシー・ミグルディア",
+    "seconds": 10.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2668"
   },
   {
     "name": "セイバー",
-    "seconds": 10,
-    "note": "",
+    "seconds": 10.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2689"
   },
   {
     "name": "アーチャー",
-    "seconds": 10,
-    "note": "",
+    "seconds": 10.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2690"
   },
   {
     "name": "ランサー",
-    "seconds": 10,
-    "note": "",
+    "seconds": 10.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2691"
   },
   {
-    "name": "ファースト",
-    "seconds": 10,
-    "note": "",
+    "name": "‡ファースト‡",
+    "seconds": 10.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2692"
   },
   {
     "name": "ギルガメッシュ",
     "seconds": 9.95,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2638"
   },
   {
     "name": "パワー",
     "seconds": 9.9,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2673"
   },
   {
-    "name": "デンジ",
+    "name": "デンジ（障害物未接触時）",
     "seconds": 9.6,
-    "note": "障害物に接触しない最大時",
+    "note": "Appliv 2026-06-25 / 障害物非接触時の値。最大扱いの根拠はAppliv記載",
     "iconId": "IMG_2672"
   },
   {
     "name": "上条当麻",
     "seconds": 9.5,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2684"
   },
   {
     "name": "めぐみん",
     "seconds": 9.4,
-    "note": "無敵終了後にも操作不能時間あり",
+    "note": "Appliv 2026-06-25 / 無敵終了後も操作不能時間あり（無敵時間とは区別）",
     "iconId": "IMG_2629"
   },
   {
-    "name": "モノクマ",
+    "name": "モノクマ（成功時）",
     "seconds": 9.25,
-    "note": "成功時",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2626"
   },
   {
-    "name": "ゴン",
+    "name": "ゴン=フリークス",
     "seconds": 9.1,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2681"
   },
   {
-    "name": "乃保",
-    "seconds": 9,
-    "note": "",
+    "name": "双挽 乃保",
+    "seconds": 9.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2597"
   },
   {
-    "name": "マリア",
-    "seconds": 9,
-    "note": "",
+    "name": "マリア=S=レオンブルク",
+    "seconds": 9.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2613"
   },
   {
-    "name": "きらら",
-    "seconds": 9,
-    "note": "",
+    "name": "輝龍院 きらら",
+    "seconds": 9.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2625"
   },
   {
-    "name": "メルーニャ",
+    "name": "メルーニャ・ランチェルナ（スーパーノヴァス）",
     "seconds": 8.9,
-    "note": "スーパーノヴァス",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2688"
   },
   {
-    "name": "GBガール",
+    "name": "ゲームバズーカガール",
     "seconds": 8.65,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2648"
   },
   {
-    "name": "輪廻",
+    "name": "一姫",
+    "seconds": 8.6,
+    "note": "ユーザー提供 / 2026/6/25版ランキング外の追加情報",
+    "iconId": "IMG_2695"
+  },
+  {
+    "name": "糸廻 輪廻",
     "seconds": 8.5,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2654"
   },
   {
-    "name": "忠信",
+    "name": "佐藤四郎兵衛忠信",
     "seconds": 8.35,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2641"
   },
   {
     "name": "セイバーオルタ",
     "seconds": 8.15,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2637"
   },
   {
     "name": "ディズィー",
-    "seconds": 8,
-    "note": "",
+    "seconds": 8.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2605"
   },
   {
-    "name": "ソーン",
-    "seconds": 8,
-    "note": "",
+    "name": "ソーン=ユーリエフ",
+    "seconds": 8.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2630"
   },
   {
-    "name": "ライザ",
-    "seconds": 8,
-    "note": "",
+    "name": "ライザリン・シュタウト",
+    "seconds": 8.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2649"
   },
   {
-    "name": "ターニャ",
-    "seconds": 8,
-    "note": "",
+    "name": "ターニャ・デグレチャフ",
+    "seconds": 8.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2676"
   },
   {
-    "name": "うら",
-    "seconds": 8,
-    "note": "",
+    "name": "鬼ヶ式 うら",
+    "seconds": 8.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2677"
   },
   {
-    "name": "シャルル",
-    "seconds": 8,
-    "note": "",
+    "name": "シャルル・リヒター",
+    "seconds": 8.0,
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2694"
   },
   {
-    "name": "ポロロッチョ",
+    "name": "ヴィーナス ポロロッチョ",
     "seconds": 7.85,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2627"
   },
   {
     "name": "レゼ",
     "seconds": 7.8,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2693"
   },
   {
     "name": "鏡音 リン",
     "seconds": 7.65,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2621"
   },
   {
-    "name": "リヴァイ",
+    "name": "リヴァイ（障害物未接触時）",
     "seconds": 7.6,
-    "note": "障害物に接触しない最大時",
+    "note": "Appliv 2026-06-25 / 障害物非接触時の値。最大扱いの根拠はAppliv記載",
     "iconId": "IMG_2631"
   },
   {
-    "name": "まとい",
+    "name": "深川 まとい",
     "seconds": 7.5,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2603"
   },
   {
-    "name": "ジャスティス",
+    "name": "ジャスティス ハンコック",
     "seconds": 7.4,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2595"
   },
   {
-    "name": "忠臣",
+    "name": "桜華 忠臣",
     "seconds": 7.35,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2598"
   },
   {
-    "name": "ヴィオレッタ",
+    "name": "ヴィオレッタ ノワール",
     "seconds": 7.35,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2609"
   },
   {
     "name": "ジョーカー",
     "seconds": 7.35,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2651"
   },
   {
-    "name": "ジャンヌ",
+    "name": "ジャンヌ ダルク",
     "seconds": 7.3,
-    "note": "",
+    "note": "Appliv 2026-06-25",
     "iconId": "IMG_2599"
+  },
+  {
+    "name": "初音 ミク",
+    "seconds": 7.2,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2608"
+  },
+  {
+    "name": "鏡音 レン",
+    "seconds": 7.2,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2622"
+  },
+  {
+    "name": "デビルミント鬼龍 デルミン",
+    "seconds": 7.2,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2632"
+  },
+  {
+    "name": "ノクティス",
+    "seconds": 7.2,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2644"
+  },
+  {
+    "name": "シャドウ",
+    "seconds": 7.2,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2686"
+  },
+  {
+    "name": "エミリア",
+    "seconds": 7.15,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2617"
+  },
+  {
+    "name": "メグメグ（1回目）",
+    "seconds": 7.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2620"
+  },
+  {
+    "name": "モノクマ（失敗時）",
+    "seconds": 7.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2626"
+  },
+  {
+    "name": "アインズ・ウール・ゴウン",
+    "seconds": 7.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2653"
+  },
+  {
+    "name": "ラム",
+    "seconds": 7.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2659"
+  },
+  {
+    "name": "ーペルリニエ",
+    "seconds": 7.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2685"
+  },
+  {
+    "name": "エドワード・エルリック",
+    "seconds": 7.0,
+    "note": "Appliv個別攻略・ユーザー補足 / 2026/6/25版ランキング外の追加情報",
+    "iconId": "IMG_2696"
+  },
+  {
+    "name": "レム",
+    "seconds": 6.85,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2618"
+  },
+  {
+    "name": "猫宮 ひなた",
+    "seconds": 6.85,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2634"
+  },
+  {
+    "name": "ピエール 77世",
+    "seconds": 6.85,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2640"
+  },
+  {
+    "name": "トマス",
+    "seconds": 6.7,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2633"
+  },
+  {
+    "name": "イグニス=ウィル=ウィスプ",
+    "seconds": 6.7,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2652"
+  },
+  {
+    "name": "ラヴィ・シュシュマルシュ",
+    "seconds": 6.7,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2661"
+  },
+  {
+    "name": "コラプス",
+    "seconds": 6.7,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2678"
+  },
+  {
+    "name": "オクトバリ・ニャル・タココ",
+    "seconds": 6.7,
+    "note": "ユーザー提供 / 2026/6/25版ランキング外の追加情報",
+    "iconId": "IMG_2697"
+  },
+  {
+    "name": "コクリコット ブランシュ",
+    "seconds": 6.65,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2610"
+  },
+  {
+    "name": "デンジ（密着時）",
+    "seconds": 6.4,
+    "note": "ユーザー実測（5回、平均6.412秒） / 密着時の実測であり絶対的最短とは未確定",
+    "iconId": "IMG_2672"
+  },
+  {
+    "name": "御坂 美琴",
+    "seconds": 6.3,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2664"
+  },
+  {
+    "name": "青春 アリス",
+    "seconds": 6.25,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2650"
+  },
+  {
+    "name": "グスタフ ハイドリヒ",
+    "seconds": 6.15,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2606"
+  },
+  {
+    "name": "十文字 アタリ",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2594"
+  },
+  {
+    "name": "リリカ",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2596"
+  },
+  {
+    "name": "アクア",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2628"
+  },
+  {
+    "name": "ルルカ",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2639"
+  },
+  {
+    "name": "キリト",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2655"
+  },
+  {
+    "name": "2B",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2660"
+  },
+  {
+    "name": "アクセラレータ",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2665"
+  },
+  {
+    "name": "シノン",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2675"
+  },
+  {
+    "name": "みりぽゆ（1回目）",
+    "seconds": 6.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2680"
+  },
+  {
+    "name": "アミスター=バランディン",
+    "seconds": 5.9,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2674"
+  },
+  {
+    "name": "狐ヶ咲 甘色",
+    "seconds": 5.85,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2643"
+  },
+  {
+    "name": "リムル=テンペスト（失敗時）",
+    "seconds": 5.8,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2662"
+  },
+  {
+    "name": "クー・シー",
+    "seconds": 5.8,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2671"
+  },
+  {
+    "name": "リムル=テンペスト（成功時）",
+    "seconds": 5.7,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2662"
+  },
+  {
+    "name": "芥川 龍之介",
+    "seconds": 5.65,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2647"
+  },
+  {
+    "name": "マルコス’55（3回目以降）",
+    "seconds": 5.5,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2600"
+  },
+  {
+    "name": "ニコラ テスラ（2回目以降）",
+    "seconds": 5.5,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2607"
+  },
+  {
+    "name": "13 ‡サーティーン‡",
+    "seconds": 5.5,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2615"
+  },
+  {
+    "name": "ロックマン.EXE ＆ 光熱斗",
+    "seconds": 5.5,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2670"
+  },
+  {
+    "name": "ソル＝バッドガイ",
+    "seconds": 5.35,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2604"
+  },
+  {
+    "name": "ザック & レイチェル",
+    "seconds": 5.3,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2624"
+  },
+  {
+    "name": "キルア=ゾルディック",
+    "seconds": 5.3,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2682"
+  },
+  {
+    "name": "中島 敦",
+    "seconds": 5.05,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2646"
+  },
+  {
+    "name": "零夜",
+    "seconds": 5.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2636"
+  },
+  {
+    "name": "某 <なにがし>",
+    "seconds": 5.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2669"
+  },
+  {
+    "name": "ベル・クラネル",
+    "seconds": 4.8,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2667"
+  },
+  {
+    "name": "ステリア・ララ・シルワ",
+    "seconds": 4.75,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2658"
+  },
+  {
+    "name": "アダム=ユーリエフ",
+    "seconds": 4.55,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2614"
+  },
+  {
+    "name": "カイ＝キスク",
+    "seconds": 4.4,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2619"
+  },
+  {
+    "name": "リヴァイ（密着時）",
+    "seconds": 4.4,
+    "note": "ユーザー実測（5回、平均4.430秒） / 密着時の実測であり絶対的最短とは未確定",
+    "iconId": "IMG_2631"
+  },
+  {
+    "name": "アル・ダハブ=アルカティア",
+    "seconds": 4.4,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2663"
+  },
+  {
+    "name": "春麗",
+    "seconds": 4.3,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2612"
+  },
+  {
+    "name": "アスナ",
+    "seconds": 4.3,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2656"
+  },
+  {
+    "name": "イスタカ",
+    "seconds": 4.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2623"
+  },
+  {
+    "name": "アイズ・ヴァレンシュタイン",
+    "seconds": 4.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2642"
+  },
+  {
+    "name": "ボンドルド",
+    "seconds": 4.0,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2679"
+  },
+  {
+    "name": "Voidoll",
+    "seconds": 3.8,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2602"
+  },
+  {
+    "name": "チーちゃん（密着時）",
+    "seconds": 3.8,
+    "note": "ユーザー実測（8回、平均3.8125秒） / 密着時の実測であり絶対的最短とは未確定",
+    "iconId": "IMG_2683"
+  },
+  {
+    "name": "リュウ",
+    "seconds": 3.5,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2611"
+  },
+  {
+    "name": "かけだし勇者",
+    "seconds": 3.3,
+    "note": "Appliv 2026-06-25",
+    "iconId": "IMG_2616"
   }
 ]
